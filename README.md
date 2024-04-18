@@ -13,4 +13,4 @@ HCX UI Components is a comprehensive library of React components tailored for He
 Install HCX UI Components using npm:
 
 ```bash
-npm install hcx-ui-components
+npm install hcx-ui-prototype
